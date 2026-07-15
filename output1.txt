@@ -1,0 +1,17 @@
+
+ร้าน: Dart Cafe
+อัตราภาษี (vatRate): 0.07
+---
+หมวดหมู่: [เครื่องดื่ม, ของคาว, ของหวาน]
+จำนวนเมนูทั้งหมด : 4
+ราคาลาเต้: 55 บาท 
+---
+เมนูตั้งแต่ราคา 50 บาทขึ้นไป
+null : 60 บาท
+null : 55 บาท
+---
+ยอดสุทธิ (ไม่มีส่วนลด): Closure: (int, int, double) => void from Function 'calcTotal': static.(55,2,0.0)
+ยอดสุทธิ (มีส่วนลด) : Closure: (int, int, double) => void from Function 'calcTotal': static.(55,2,10.0)
+---
+ความคูปอง : NO-COUPON
+คูปองหลังกำหนดค่า : NO-COUPON

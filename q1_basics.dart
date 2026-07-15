@@ -1,7 +1,7 @@
 const double vatRate = 0.07;
 
 void calcTotal(int price ,int qty,double discount){
-  (price * qty - discount) * (1 + vatRate);
+   (price * qty - discount) * (1 + vatRate);
 }
 void main(){
   String shopName = 'Dart Cafe';
